@@ -1,6 +1,6 @@
 Address Book Application
 
--   CRUD - create retreive update delete
+-   CRUD - create retreive delete
 -   Database: SqlLite 
 
    
